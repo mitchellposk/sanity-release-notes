@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "implements": "part:@sanity/base/tool",
+      "path": "./src"
+    },
+    {
+      "implements": "part:@sanity/base/absolutes",
+      "path": "./src/components"
+    }
+  ]
+}

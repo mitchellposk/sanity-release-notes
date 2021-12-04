@@ -1,0 +1,34 @@
+{
+  "name": "@mitchellposk/sanity-release-notes",
+  "version": "1.0.0",
+  "description": "Sanity studio release notes plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellposk/sanity-release-notes.git"
+  },
+  "keywords": [
+    "sanity",
+    "npm",
+    "npmjs",
+    "release-notes",
+    "release",
+    "notes"
+  ],
+  "author": "Mitchell Posk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitchellposk/sanity-release-notes/issues"
+  },
+  "homepage": "https://github.com/mitchellposk/sanity-release-notes#readme",
+  "dependencies": {
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/icons": "^1.2.1",
+    "@sanity/image-url": "^1.0.1",
+    "@sanity/ui": "^0.36.15",
+    "styled-components": "^5.3.3"
+  }
+}
